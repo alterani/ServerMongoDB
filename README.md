@@ -1,2 +1,3 @@
 # ServerMongoDB
-Creazione installazione e configurazione di un server mongoDB
+Creazione installazione e configurazione di un server mongoDB.
+Esempi Pratici.
