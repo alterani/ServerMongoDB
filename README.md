@@ -21,6 +21,16 @@ Dopo aver creato la cartella settare i permessi per l'utente che utilizzerà il 
 
 <CODE>mongod --dbpath "percorso" </CODE>
 
+<p>per lanciare su macchina ubuntu</p>
+<CODE>sudo mongod</CODE>
+<CODE>sudo service mongod start</CODE>
+<CODE>sudo service mongod stop</CODE>
+<CODE>sudo service mongod restart</CODE>
+
+<p>Macchina ubuntu lanciare in backgroung</p>
+<CODE>sudo nohup mongod &</CODE>
+
+
 <p>Dopo aver lanciato il servizio mondod possiamo utilizzare la shell. Digitare:</p>
 
 <CODE>mongo</CODE>
